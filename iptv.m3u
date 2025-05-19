@@ -9,7 +9,7 @@ https://www.radartv.in/utv/s_bn1hd_1452/playlist.m3u8?t=1747673791&token=f7afba8
 #EXTM3U 
 
 
-#EXTINF: -1, bein sports 2 hd (1080p)
+#EXTINF: -2, bein sports 2 hd (1080p)
 #EXTVLCOPT:http-referrer-https://www.kds.tw/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://www.radartv.in/utv/s_bn2hd_341/173329_1747640026.ts
+https://www.radartv.in/utv/s_bn2hd_341/playlist.m3u8?t=1747676009&token=4eb11c28fcd2da439849f27992e2586a
