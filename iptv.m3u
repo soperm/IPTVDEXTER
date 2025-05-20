@@ -1,47 +1,52 @@
-#EXTM3U bein sports (4k)
+#EXTM3U bein sports hd
 
 
-#EXTINF: -1, bein sports 1 (4k)
+#EXTINF: -1, bein sports 1 hd (4k)
 #EXTVLCOPT:http-referrer-https://www.kds.tw/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://www.radartv.in/utv/s_bn1hd_1452/playlist.m3u8?t=1747673791&token=f7afba82cc483633d9a301d99b27e1ef
 
-#EXTINF: -1, bein sports 2 (4k)
+#EXTINF: -1, bein sports 2 hd (4k)
 #EXTVLCOPT:http-referrer-https://www.kds.tw/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://www.radartv.in/utv/s_bn2hd_341/playlist.m3u8?t=1747676009&token=4eb11c28fcd2da439849f27992e2586a
 
-#EXTINF: -1, bein sports 3 (4k)
+#EXTINF: -1, bein sports 3 hd (4k)
 #EXTVLCOPT:http-referrer-https://www.kds.tw/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://www.radartv.in/utv/s_bn3hd_342/playlist.m3u8?t=1747742612&token=b4c25c0b89e477a59ae225b6387f2bb2
 
-#EXTINF: -1, bein sports 4 (4k)
+#EXTINF: -1, bein sports 4 hd (4k)
 #EXTVLCOPT:http-referrer-https://www.kds.tw/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://www.radartv.in/utv/s_bn4hd_343/playlist.m3u8?t=1747742842&token=5d87a4c861b4fc9e3ed0bda3b1cafaef
 
-#EXTINF: -1, bein sports 5 (4k)
+#EXTINF: -1, bein sports 5 hd (4k)
 #EXTVLCOPT:http-referrer-https://www.kds.tw/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://www.radartv.in/utv/s_bn5hd_344/playlist.m3u8?t=1747742916&token=4e89be4bb876ab3d97c27a9c2063c722
 
-#EXTINF: -1, bein sports 6 (4k)
+#EXTINF: -1, bein sports 6 hd (4k)
 #EXTVLCOPT:http-referrer-https://www.kds.tw/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://www.radartv.in/utv/s_bn6hd_345/playlist.m3u8?t=1747742989&token=f8e6e49ee791ece3cdc82376861fc385
 
-#EXTINF: -1, bein sports 7 (4k)
+#EXTINF: -1, bein sports 7 hd (1080p)
 #EXTVLCOPT:http-referrer-https://www.kds.tw/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://www.radartv.in/utv/s_bn7hd_346/playlist.m3u8?t=1747743027&token=79c2bebe4aeac0b933565b80cd50ae01
 
-#EXTINF: -1, bein sports 8 (4k)
+#EXTINF: -1, bein sports 8 hd (1080p)
 #EXTVLCOPT:http-referrer-https://www.kds.tw/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://www.radartv.in/utv/s_bn8hd_347/playlist.m3u8?t=1747743080&token=080e49f2e489c7d31a1a51b1f5381b04
+	https://www.radartv.in/utv/s_bn8hd_347/playlist.m3u8?t=1747743080&token=080e49f2e489c7d31a1a51b1f5381b04
 
-#EXTINF: -1, bein sports 9 (4k)
+#EXTINF: -1, bein sports 9 hd (1080p)
 #EXTVLCOPT:http-referrer-https://www.kds.tw/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://www.radartv.in/utv/s_bn9hd_348/playlist.m3u8?t=1747743125&token=f1e021e98c69a709248de2f5f606ac4b
+
+#EXTINF: -1, arryadia tnt (1080p)
+#EXTVLCOPT:http-referrer-https://snrt.player.easybroadcast.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/dvr_v_p321_79755000.ts
